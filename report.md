@@ -6,7 +6,7 @@ MNDR is an electro-pop act consisting of lead singer/co-producer Amanda Warner a
 
 Jamie could not join MNDR for her tour, so the Rainbroz teamed up with MNDR to create a music-reactive light show for MNDR to take on the road. What we created was a self-contained unit that powers 72 RGB LEDs from within MNDR's transparent Activity Center.
 
-[[video of the box]]
+<iframe src="http://player.vimeo.com/video/38863614" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Hardware
 ========
